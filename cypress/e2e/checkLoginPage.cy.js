@@ -24,15 +24,6 @@ context('checkimg some elements on the login page', () => {
             cy.get('button').should('contain.text', 'Show Password')
         })
     })
-
-
-
-
-
-
-
-
-
 })
 
 
