@@ -1,0 +1,13 @@
+{
+  "id": "62b2d6ccf45c6a39fc4db677",
+  "fullName": "Alina Chistiakova",
+  "email": "alina@talaluev.me",
+  "permissions": [
+      {
+          "domain": "SUBSCRIPTION",
+          "action": "*",
+          "instance": "62b2d6ccf45c6a39fc4db678",
+          "environment": "ANY"
+      }
+  ]
+}
